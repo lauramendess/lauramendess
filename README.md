@@ -2,13 +2,11 @@
 - 📚 Estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT);
 - 📖 Estudos do momento: C e React;
 - 👩‍💻 Áreas de interesse: Programação Web, Programação de Jogos, Inteligência Artificial e Cibersegurança;
-- 🐧 Atualmente sou Trainee da ASCII Empresa Júnior da UFU e fazer parte desta EJ está aprimorando meus conhecimentos na área da Pogramação Web.
 
 ## Hi there, I'm Laura Mendes!👋 (EN-US)
 - 📚 Computer Science student at the Federal University of Catalão (UFCAT);
 - 📖 Currently studying: C and React;
 - 👩‍💻 Areas of interest: Web Development, Game Development, Artificial Intelligence, and Cybersecurity;
-- 🐧 I'm currently a Trainee at ASCII, UFU's Junior Enterprise, where being part of the organization is helping me enhance my knowledge in Web Development.
 
 ###
 <div align="center">
